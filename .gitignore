@@ -1,0 +1,9 @@
+/**
+!/.gitignore
+
+!/path/
+/path/**
+!/path/to/
+/path/to/**
+!/path/to/this/
+!/path/to/this/**
